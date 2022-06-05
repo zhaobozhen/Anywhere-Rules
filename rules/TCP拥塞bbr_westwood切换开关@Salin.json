@@ -1,6 +1,0 @@
-{
-	"name": "TCP拥塞 bbr/westwood 切换开关",
-	"contributor": "Salin",
-	"content": "J2VP8X5qVhbI2sRvhS9ao5TusGRpGq0Lrl4DgN8aQvvC8cKT2dmVOuSD23vvTJxH8nH9kWSbp0MdYhuleKTOD6Tx+uL+4VbLXmzjCHxZwvA0H0sH6sG7HigCB+Kp14478n/S5cDR002yEdu0ZV9NNCDTh+WSYysXgopWs7s9v4jKQxYCwjGBCuBwFjKVO0UyGWVhWt0S1ojcuAz9Si/+8P/gJH1KjX11q1fChc3gAXxckKhsEj4vDEVRAuypAp1IpS4h6XbB3DUbtfmQI/doWt5W8/JJc1vcPc8P1M3rj9EJ6EzBu0KiEKt/hIC3GRsvBbE0hmvtW+sGwZJjBtCrJrLEjyze4EvXt3ragtjHVM9q8hFaVD4mBF3tt8Ykrn2pGhtMrwNYx98RgjchB3xQD7N65IKYJIBuyG16dwRlr18Ouicb9BBZbyvqiTpJWwWkzSvzfH+NxxVOGDOpNr9dWq5kDpoS1iOYc1TRvB1GTwR+sw==",
-	"desc": "TCP拥塞切换的开关，在 bbr和westwood 中切换，不同机型支持的控制类型不同，可打开 /proc/sys/net/ipv4/tcp_allowed_congestion_control 文件查看当前支持的控制类型，再对echo后的数值进行相应的修改。"
-}

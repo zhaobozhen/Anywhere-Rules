@@ -1,9 +1,9 @@
 [
   {
-    "name": "小米应用商店应用升级页面",
+    "name": "快速打开小米应用商店应用更新列表",
     "contributor": "某贼",
-    "content": "J2Ve4HxUVSiWndx33Cc7lw01atNQYUAwVubaxbyw2Asigr7Olu88KTxpIaC+rc1ilsppSbRVwP6R KpXWzHGj1BjbOijuBeO68lcWjkXEupGN7mVd/Vh6lhIxw8I5BLxuMdYv38XTPddLTD1dCYZ9PnHQ AyTWJE/fD9TWUxuaCw5DlyeUIx/MExx84n6p7OiuVC4UdmTExOePfhWjkdxT1BLrWSxjmr7uEOkd GhI57JI39YN+ykPqFEmz2rG47hRJz8ikuSOUoh9Gq5Cg8mgRbmwhSLWLKzIxPe5ySEXFndVHKcpT IFYR+FxwP5SVSkE/npxHxhkLDEXaTVt2fj3UJBemfp07Z9sBRHDgP+QBLFOiugGeDKxLH+3/6Qsx brw=",
-    "desc": "用于直接打开小米应用商店应用升级页面，可以代替官方日用。平时我们开启应用商店也无非是升级软件和搜索软件，而这个页面完全都可以做到，根本不需要官方主页的满屏推荐。更妙的是，还可以免去开屏广告！快来体验一下吧！"
+    "content": "J2VP8X5qVhbI2sRvhZ6jZ+UN+FiEaVpyYNlgbziAropGcKAgqoDcU+ehp62p8pEq2H2uuXmegQL7 jYE1A/AUzcHVpidQrEP+BhUGhpA0EyfUpBKv+DYPKDLivWrCHcjYufyRip/3dWnFsRDWmXoXOS/U OdZaY6iqyuGpm1NBN5oywvGjO+Qn7OZSZHxBqDaBoF5r4jqc2QKbhULneJDYYxmLgUjNGVXQsFzP kcnXulgPZc0YFRT1dbgWQqFGMcf+7JwwdrmQ62KWITZfBTkRUueHbCCm9uaYJvgzEbDpqQqedtOg 1PT6teZEPUVGtsZaoTN87HhyN7cMbtPc56Q1xdjNXa0bZ2xjuDwEkGiRz5LJdmRrCtsjPpwCaZDZ 7xtj0tSUWsw/cLdNne4ozKUBrAAxMK0=",
+    "desc": "我们使用应用商店一般无非就是搜索和更新应用，而 MIUI 商店的应用更新页面已经兼具这两个功能，直接打开这里即可满足所有需要，不再需要忍受开屏广告和商店内的各种推荐，方便快捷。"
   },
   {
     "name": "一加应用商店签到",
@@ -140,7 +140,7 @@
   {
     "name": "美团扫码",
     "contributor": "abdwhp",
-    "content": "J2Ve4HxUVSiWndx3hVc7kvCfhKb/C7WfqvkTbiSmyUZrLTZY2uNSIehH80GH4Vj7ATrQXd5GOP6h5nk5/HuClOpT+SGh1TedofUpus0LjycV5nKSURf9mHRSpGHtqulPqUnbgdNOGshcRO8kqIssQEbEQf0z+0n+0q6PDH9j6Blw5TUDxsXrsLGKC1rlKPGvMSW2k3pd3I/pEKEb7hX//3LWJ1/RqbxsV8qu+y+GvhbPYi/b07A58W5PP96ki8D94FOJKq5UhhrEeIlzIwOxsucE/AknJ9ERA2uSWmFmbg9iguqdVY3fQJDkBq+Wg8nDZjzUXHKmxx5BqZKrq/xivvQ3lwRHx6HNp1BU3FlR9VQt+4rKWPScoy3kKwQICi3wvUdBI1q+UHi1cDx9oWTrl3mFTHzoqm6lVm4hklCjWwfIZIHpegXB0PIqQ+ScBH4+72W5L7NMEC5N5Aak5mTjKSijhfr8JDqRGI+2uzQ1gZj9ItuOWODjbrHGvFfJt3nNq7q2ACRd7rP/IMYrIg0dWrDK0/qJSQ6KVzKc5Aw1vCvlKLe+FvpNQHTJyb6KNcYKy/Y=",
+    "content": "J2VP8X5qVhbI2sRvhZynfTHs9Il+3m8JTnWkavwkRW2V4byY/bn3TNDXn6pPQ52zFEsSeFbC7PuAzeXYnQm2O+V50CWvytFwJQ981jRs8mquXjhoqaDeiinKCk6VX4HGZtTz/HAc7WwpR3v/ziSPOm0VH+Iz18U+2cDDCIVHfsoToW+Vqv0wFxvfSCU31G+AMuj8fegKc41MInQ8dC8uaoGzwNddlAIQBnXJR7DCKXDxuwhgRxxiqEEd9UKLfY6JjHI1mUQzUT+z6v08liDmVibBP8VEW7IMCSgJKqBXwNq1yox1ehfZoZld4lqIqsLeuP8YRAl8R4aG2MKFgNLyizL1C6lCob9OQHYXEsJKyTb832J5gmMh6nibgVxbOE9zt8d0iXgjYgHrFV4gLC6bXzOjwHDg43NeZ40cpaAcBSi2VdFVH9YuNyaCbOT+V1U=",
     "desc": "美团扫码。"
   },
   {
@@ -730,5 +730,227 @@
     "contributor": "Zero",
     "content": "J2Ve4HxUVSiWndx3hVc7kvCfhKb/C7WfqvkSZzKm/Hk6oAnk7udIDilILY38wsPrz2NSKnIi7uRF KzXwetOGScXwLKjckyxC5ufWoTtM8lGotehI92QTpWvkRlFWac2+cBvRZZmjy3dWbfSj48nSwW4h MaMVrWjcEcPuKsbWEeCRj/AUbPDeWGiXHUQdvbUgwSgXRpB5B1aj9wAoqskQbW/Cr9+UR0b/hXGb DUjZaDkFRZEsnM4DVZrH+5PPa9ZKe9v5TKmDSE2hWaEmU3GGvggN21p2UK3SuQQgelF8li5ynVbh sjEZ67AwIVUwTYZ8jOzy8vhRFpBCqQ0wZdK/Q2+94xFdPDpMrRfsckLPlIMs8qUL1sVRCjVfXQVE r2JfAyfTSi2MdSFlzTw4dEfQmEGkmx0Zeo4VpU3JOtcn+1MenBWinSn6NVTMF1+UtIsYFw9iPFrS mXbbZrku2XiDv4Cfidd1Dn8pg4XQ7h0UCtRCxRbwnutxlOyhJzy5wq5z0c/vUKXNDeEG1VcE18Le KIXNOX+YodNU/9TQLET8XYQT5BQdxcH3lmgeMzdwDxZDQrk2q6DoyX6OBtboo42KuUcHdipy3DBT CMQUDBU9knFaae/fGiHX8pZpRCzCTmMZjypZMtvuRVbiAs4T9jganQC/a3NIFa8mWyb03C09GQXD SHYcyEK464oWc/PTJPua4fWC55mbrVkfOeLg2P+n4fDLZrLh7KLiPoeplvXkc9i8Io5r+nMRBytm 97fvfOXTu43TJ8taWLTNdg6+hSc610JfdUv4a6w5rj5cKkJcay7ZP3NSGiNGJgi3o2sldtoMEUut rCqmRtys/7LBQouT+lYG0AfsH5tX4CsTQ4aOtBYGt56n+AxVGA0vaChLvKYFCtRf/0TLcQAia6gF 8INcGwL6ST2Nwk1DCkUB/PHu1Ot2liMAPXOvKO2GdzOP04AF0cHKIM0JlIFD6DIek3eJ1A70FU24 UIzNfCkLoAc3GiK5O0GdAftl+sLmF/uMsoN6TyqIPAbbwvKTzXFzmBR6nThbXCEL73Kv5DgrVh+7 TlegEaeCczBlfcN0r7lTMAEmXsU2swG9i7I1H9t0ch7IJvNGmG0icGiGaJ2ryJm87mL1EnSoWRIc jjZHicwyfYVBK4aJJutX90cq+NOdnTXFEBtRJaoCo+MPFkMwnrcjOy2QGK/6B+GWtWF6XfaIEvZq vc5/ZyNP88mWI5EVToNLC1XHrREtQ/52J4xnKgGIumx1pM19bpLO+N51BNsLY1MhJSF7579THo8=",
     "desc": "调用淘宝获取菜鸟裹裹身份码。"
-  }
+  },
+  {
+    "name": "隐私权",
+    "contributor": "遥望未来",
+    "content": "J2VP8X5qVhbI2sRvhZKDY8TptJ5ROH+Mj/dhj9BGpUjygVNv5XvIA3TC6dCGJQUqchmbTJX/4/R3 YmM1H9lmAKq5z3MKyOA1/3sBF00mdasDE/B79ZfclT4oKcvDToAO2K5Zhedcm+GWRFyEvXrfAhx3 6o2NcwEvLW1b1jWyBG1Ztyey2/xBojGEEr1bQ/ThoZ1WLGWDZS7ekUbX6jrGimYqHg/SGF87WxCd aYIP1FztWTDRtZL4OPSTI8SDxrkwIM7Rh78kDlauubHacbPRvbo1AHRYy98U8eNxSTLXm8CEoOcx dfmCRsoXptnKMZmDz3nAdCJ/NZ0w/ob8mCYicJQkDyOpT7CA4CdgzSCoMCiIAZfDjOoki7i9L1Vg +jVbdrq4+mOQFiOt6fhej/agsDQ/3LFQ4YTuZuA=",
+    "desc": "安卓原生的限权管理和其他的权限管理。"
+  },
+  {
+    "name": "美团外卖",
+    "contributor": "kaysen73",
+    "content": "J2VP8X5qVhbI2sRvhZynfTHs9EzyDfL0tyX8LftsEyRTgV5ylNpAGFZ7btaz0dBOua5sFlgHvZbj9goFyNfAB6dFjKpkOa78tIn9WimuyUXF99c7IKaSyUb3LU0LoYOAzOXFajSvhV6LjbkeFpLQpbVZRiS+XvCLinpufNJDDogLm1Kiy+HLwCsWxCvQmW0GuuEyhzShkvW/HmfeQGnX6AL2mp/qlAMob0c+Kq8WibxmFg4T5BOUNe5bihfKKy9XMjXjPCuee9c3vhHzQz5oBdF+koyQHI9D4Hhw3fdQkHbW/aTsQ+AD2nMepFuBT6wTiYFzxxb4iDVcrRfItF4Dl364U1B/BYOQAXlGC6U9WNsOxaXycq1tWmULEig9IaCFphtQ5j8VTJKTAWqOPe6gA+izrTiQlseKh5bNZYg39trMNkYxMXMBq/JQ6i+Yreo+/HIU",
+    "desc": "美团 app 直接打开外卖功能页。"
+  },
+  {
+    "name": "过滤日志",
+    "contributor": "Vie",
+    "content": "J2VP8X5qVhbI2sRvhZOmdLJ0cRZEKUcE4Dj7O2UCQpRamTUMw9MXuykifI6oSebn1ipHazPVvgqxg1bSD8S3/3nWjwXCARLkg8GcYlEY7wpeSiQv4yGp1VRrA5pssBbeOHtHLI17K2+WljQ+AXppX9LHu8HykGeGmmJJSLfVxE/2nJxZT9sbhc5N4g1iPs3YRu5OEXoQ1Ry4jwGPJGmiC6q4sL6Kjsn5FlCPSJozf6TH700qG6KmDZunNpsAvRVFaeAe3x5unGREioK8mWwbdwxQB9LykG0NY/YAyqujJYwQf65qSrMsviqsrSHPcpJrO+EsGmzkTNzUfYqQyIS0KYRCkYTqlpv1zJSitGOPI/pLMxRp8jzhx6t0wIb2aoObWPxU1yTnV5ysENDICTNKi9pD2FZ01f6bOw==",
+    "desc": "快速查看 AdGuard 过滤日志。"
+  },
+  {
+    "name": "文件监视",
+    "contributor": "Vie",
+    "content": "J2VP8X5qVhbI2sRvhZ2PdBJRxHG7pcNeBRiGxOUstTyf+9EV8fwmotCbhwwLibzV4wQTV4a/zV2Wp+FtV38n29iBvbNRUTngYHAC82cX53I2qwiTT3fEMt3PmJVuxVwbxe0Pul3vOXNM7fscGQwFQxaqhb2gDAtQZxBw+1vvr08YkvLlub0OM0d65SZar1ngbzcAcsS7KD2uWqpqrFVoHXUaILfJf69MlZ31GNCeOAtuahjdJiXalav9zzwa5Q6CwmMiYYrTqUohogfeC+A3SejX8HOhzHzGox9k+R52guVdls+Z3YvbcfXbDDGQYIsG+pcsmZtQoM8UxxtcdbRKR0hccStoqMFpRkFa07zLYie1CpwmPYncUQfuGFetEmQwDs4uMxStFN0JZrhCwbYxWic7tyzihKQjvf8ibV3mquPf6yuyzQ4Z91A0MdUkFTQ7CBM=",
+    "desc": "快速查看文件监视。"
+  },
+  {
+    "name": "电池优化",
+    "contributor": "Vie",
+    "content": "J2VP8X5qVhbI2sRvhZyNRmxptgJrB9OiLQ9dk89RWBAvLLiac84IFg6fDlvt2VpbYWJaBY5UZr38qbz4HRNiiLOHDVQ9KP75cdAQkNKeG+fbQaboSbCqFKMOTx3ZCHwRlwjwZduEBbo/k+pK6IkzImETJzDd7viXVuvjRrAXCHoWsWNaoBtg3H5vwQ9Ps0WgPWtFWrvik9fBc4TJYL0BzfwmiIFC0kLPOfRTNGGnGP6mu76X2k1bnMErt4/9uR/6uTybmH1G42h/TNCT6Bc5WNdtw+K9GOw0/LbZ8ojchwSEgNIxyEbHMJ7ePun28cEgct3lUg/8Kh8WcmSlg3iI6WoymUrjFs6b2plgnSd/GjpdRgb4UFmW5cuMW7n+0Lbt+KUYeK5j/UkOtisdK7do6bJR5PQyPvPdKWO+gvW4NzXKh1ijV9vU9rPFnhR6irVU0gUs0Ss8yvxh+yi9/JDKfjZMi/flNJ8=",
+    "desc": "打开 MIUI 电池优化。"
+  },
+  {
+    "name": "交管 12123",
+    "contributor": "Vie",
+    "content": "J2VP8X5qVhbI2sRvhZ+jV83wXJiy318BOmpRM3ANs+hgrj9B7oLQhA13Rp9SDKzmqfPWNyMsy9WFMbfWpm5TOkEo9atWCD5agbjEu+VqTmK8G3QyNziju+SeIBElT5duQBGXU4Hjsf0TTKppsDI+pJ3daVvvZT+qigs4o1/ww5t4zWvZ0IabDQsSss8uiTY0nNWMv9EqICnTGUSdI2C78Y3ERfFinA5R7KQuzLM6mkrL7tyV98tLW0tEvr85bqAWsR0GPIl/DcS9govG7EvgqJiUXdX6ZYI2rn3jeECivYG641/NXt3Bvd/P/vTnrAQRL598filFdolriOwwp07UU4A7wi+zeibkC1smW037NwxKazO6miWyNfXCetkma3IItL1qcg==",
+    "desc": "启动交管 12123 小程序。"
+  },
+  {
+    "name": "贵州健康码",
+    "contributor": "爱我的小憨憨",
+    "content": "J2VP8X5qVhbI2sRvhZOtRo2JNxgf1QAlcI/6wRRRuZ2n/bS9PFk7Jzx+JsusABKcPuS66l/TI/91K/i1KiWIE+fWF/2jSHw0IH53j2N5Fs8Ya/xf3xJRAacCVowCxIEzypmVHs+ywCqw11nYz6MJG/1Y3vUb0Uw02hnmoWAg0I3vskKL5tZKHHE16MzLj0u5bBzjOHXZmeZCsW9I1g/QZSzMu5UE+hlMrgSeu1vxGnweL4VFu1mqFL4v79UNDhEPGBwquboloMEv8NgoA9IZMJ41vH4GR+fTs0QHb1UNDsA+rymE5O6VtWwpqMllw3LoHuT17Xk2hwcHEshqQU6Weue4jZOPzAIXdcKDjaioAvuq4CF8S0nXhUTvCu0WDcMRSuyC6hrjhSBw5ocLXaqomVqHBhRmVUegPBnvrXPzbPf3OrT59J3jScWkMTqHuaSlIVHDphdZ8LFahN++OVIehvyj2p1dQ2MpykkuNbB9VmCr60Pi8YmDLZ68Jw6exLkvq81w9Co07CPDGYWHbgaRH6k0uWFu7RlmnYCvwfKKQ1vw94hmSWNhR//iDweKciOkIbguWd7QIo0rLZibg/k6+74BOJGiSCNwGdivw4WzhEnEMxLvhpDBvP7zgaj4HpHc8CPmnFQBABJy7f3SszxpedHCdTU/+6vK29PrIxB4khoZmGcwNX+iAsOL92EpbKLtECcZbw2+LhwZUCgc78P+h8Fmm2cXwB/8hLOesHMhVTFCqVk01Pz9SSO+R06Lczmg0pjJBoJLb8N2FB/sCyewt8pJi+FXS1oSzYBiDNNDKukL0m1YnAbm2ycOrXIpfgVDOLmw7Y46pkejVPeZJDktlVh/+RLPgXmEDolx9q8IlidoqQuZjDJfNeG4vgqLeroACig2rwPQzBJoD3U3CR4ySlZeS4ZgRIWjEHgNgtSPA25VeAFPX+XZrI/Mt2C0/dqDzNJrCVA3rd2m2LuAdPDydXmqrDSW2tv7ZFtIt6TpVdPQHy/uCeeKozpKrMcNc8cjkNl4p0l8c+cC8kZkxLO8FK39PTTIc9tZW5qcVDtLfHgO4xmI/GZVxRLwPJAlIfnFQ+vV3gXfN9FQ04vE+ca/k/7+MyukiFfrZ7eQm43OHfj82lZiYqDntS28ozPfoeoC7XfRlSzaX7P5CEAYF6ufUwS6zPBsqxFSe7DIM4ucT16PSb+r8IXAmiUpOEwroTs5MSQN5/1pyTTSa7X29HXOgXEAs8KafHUjALrIasaYYlt15yOJ1sJ+OwEvWZQOheCa/8ATPbhGhDuqdAOin5zfElGlrotnrG0hluNfg+oXRB4EWZP0KV6HtsDYuUsJUeZTxUyCnQiNVI4QhBstjHcphq0jFmzDxnJVw+vx8tTq1bJMgsMhSnKXEIYdk4tvEYEp8UBRlcc2hbD7foxQwwyinFPCl8469hBzfZ9qSC4KW+8HxUL/9Yxbe8iia41njKcjQyHqyV0wjFySkaMBWWMvDweXuc6XzonT72nj6qrrQHAGtHqOqV4KS2YBLT9GDU6KXU42umlTIS0SSKdEYmIbtyQ2m7aZczXcjphVEGxdKRIC1gJ15cycDBJjoBBuE+D1wjwhdXl0MN4mPnfbPStAgp8Tj1bEeMj3YUQEGHBkd1XacQpb3oSer7qeGX6iSA7C2iW1xHQQ/RtqLQ==",
+    "desc": "快速打开贵州健康码（微信）。"
+  },
+  {
+    "name": "支付宝健康码",
+    "contributor": "爱我的小憨憨",
+    "content": "J2VP8X5qVhbI2sRvhZ2NXDSa5wmdpkGW3wg2fm4ikIW1eOqrBou/fivzZ/W1nM83633w5TIhBogASAlarsDYZW7RIPx/2/pXRp4VRFNlWmerIMWuPAZH+zjmT1pM4DZ8GwXm7Nx7VfYsF2TSAm6VAS+GCGjdGJsaPjt2kJEZyG0HLagbwdIDPC/ijqnMS8crCspSEjVM3xQOR10cZ13KdodH3+r/e1LJP2JMPn+s/rioEdCwU/Hdt1ebc2edfvhFEkI70ce0X0whlGl71IUbGQNPtr8sI8oKQwntNaeVRRrMA12bpOh3CSR+4VtSsAXqM+9x6dGzT3qUmixsS0l3/7oznPtOXBVzxtYbUs3i37PpRRlP214/cOqYeCaM0EDGHiu+YECQC1Pm8aYf0XqQD/dbQhKc1PFh7xOkhdj27Iy5XRZB3iu4kHgX9N3kzKEARfSS0U8YGLbApbo/MHUK3xnVbRR1rQXfboiMayWoXnkOvw1ahl4Zd4ynHMPZuAOQ0f3bOtxJZXxULjR+HaZ3vKfHcOWL0OTObqHDC9wcPv64vOgeRQezG4kLo3216NMyaMDyrXUS1oBOxg7bNJirSbDqrzrsFjdnSNHApJ/ifeNbGp7GAelS3z/RbekFVnFQaHZWFZFjoqVhoXkn8E40HcCufqj94qYs//3wEYdMXrD93IbUTkzJEE854XkA3MQUrA3wFS7FBCY6sVDE+yQcrtUNOC6g+Vu56s/mVtPMWi41eKi8blUpKBbhzjgrbn5Q/DsvGRKpNlu7IwZag20snoPKZKr/LvJxgD6p0wxm5gOW8lGrAEfn3Sa05SCDQAvANLoAwoKYtmmZqjMGZDUUtssYFqyOkch/07V0kx50k+FwvAlakZsv90fp9j/JZByHqwQEiVoHPq1OER9zJrYIGSo1q51QDYPD0dXBEhoCtqJQiD7dLNBykA152RiI7eHXof+zJFH1SyXf6Xd8vGpxj7CIRntq53mbfoQARRApUH2rWrt63N9MRvaxZ52izu704jNwBj407ez3dAd6ltjgrqvQ2lkG4+M2+TJLFtOXHZN500RCXNLXbbhPgT7MAhouInkoWwSEbdlsokR87CSfau8HenJkcGHrqhQOqknZQj/SJgtsgZcpMbJf1guuZkANOiTyCZvQH4K/EwGDWmJ3Aln7aARMezicviqcdV8iJu3ifGJ/188NOPU/SCmyscZM2gRCqfHZC7usMDH+wjlWWCkhmZ42RUHCryGdXc5T3H0ig46obc+V4f8nbfo5qkem8BXNzSWhbBuYTyLSn4lA0W0pC3deBvCKVLI/WpSjaCZT6hQVGcHRiVokFJ4XlJc8UqEgs9KdAcNJjoJgKLIwhAsu01e0NwIEezKTnLAtE+KOjoNuugLVJ/DDtRFu8XOzcqGbInB3zEyHaji/qGMOruh0UJTqAURxM7YgfRXdBixVwuT+yAsunvDbt69nOR4NhcBHmT9HEXFRmdUewR/0AcQTQiPZI7HQHmeBFa2xNKRCHfMH/KY+POisfasoImZYhPvqWvK8XTA9DBfAyIHJ5JH+czoxhwozw1T/7q0OfW8pauS/jY9hWcAbD+5gS3xVx6c/cDNlxu2hybXuXFmmMeB2fNyDV2cKNd2mrBU5nEt09AENQLZl5hhang==",
+    "desc": "快速打开贵州健康码（支付宝）。"
+  },
+  {
+    "name": "快手 - 关注的人直播",
+    "contributor": "墨轩ye",
+    "content": "J2VP8X5qVhbI2sRvhZ6mWN1bodA9WlYS+h9UzE95raBckP6Lp3U7sLv0Z+80e9oUANcMPbAr5OzHDwSQr9FPv0a0P6f7SwST75gNNqPM9nWH/3yxf8nfsXhBYYy/aIEWaOrmv/ZBrArgTvtzqpfBn4SmRHNatLR+Kk3D8LnJsDPFalLhWIDzxy0KZ2DYaLOQ1Kyv5YigMYfLAu2diw47IbcxPXuq3kf1PRApFM2iahbGUKLHjeWU2QIb9upiuj0coOxORGDLdea5k41hjkv1RqrLSsNag87KujDl7Rpzw5ZcB90G1KdIlFek5Tlc8PvEe5VecMBL8ZmpP/ZKJWFrJ31jQyGRHBF4UViD91RuJzwdzQizrs65dulStrgQ2qUrHA5Iaas3hQduYZtTEwzEcalECoLyBEEgk+4Q3j6+Q+frMuAWXIuo46zMjam7GYS/PNO9gZ5tDzo3hKQ//kj9",
+    "desc": "快手 - 关注的人直播。"
+  },
+  {
+    "name": "通信行程卡",
+    "contributor": "墨轩ye",
+    "content": "J2VP8X5qVhbI2sRvhZO4f9uewB8c+w9MOt0xlS4ovGbjMqhilKJ9TFs0zucWblqN8WNYf07Nb4Pda0EpX4sBJeJ8EXPx00mpEfCpBtpcJ+LGRqSx6u+lfQ2rt7fQhJT+D51UlUwYI2OitDi+t8CcThw0RL3DvOZ58/6cr93kogewoyPk/WTlJIJdRgaOf9X1bjw4OiF3lEL2PFC4KOX7Oxmvv+UwqDN7PtTJ4+QUWoyfZg2pODJ/ZqW6P+/iAAbQiRNCH3DzMJH2AzA29F7ZKUvCHLe0c2nQxWHI22ZzTUgkuJ44DSJ1syzexiE+zcCvL63fdh+pNQULJRkI3vHgIZgrbnHQNbovzfFAChKMphfMcjlVN0uGKm0Dcysum92/Sc9g1+DqKQ3+3ZhLtsKXbP1AxUepZFuLbItQZaFAhJ/26ipiiLrGYXomk37hLXoXjTrPaezeVQDyvrkfV4kvuNoWlhcUSH3KpatN+/ZpFTy8NtgIXTB723qryzJeAbK/PFC0E8ZFpMsUEX0p4sm+IVnaopqJKZopBCRFZOG/Ieqai4zeysOazeuAoAyg2d+hoU2AFMdsOubo0L6hzc+DKOMRhvKZLGEdptpOeb87CaqJnYN3DZEyphQnkixnhVnIOw+iOwC/tyV3RirMcg==",
+    "desc": "一键打开通信行程卡。"
+  },
+  {
+    "name": "米游社扫码登录",
+    "contributor": "九谎",
+    "content": "J2VP8X5qVhbI2sRvhZyoQLs/N59J1kkZvOeZabywDo8DX09irHW5+U0Y9g0/4QqdvmXs5GsolKUX3QfKJuUUlXMWYE/fQ3AwCh8Sg6V8efrqj2Jen2eJ0FSE5uFP/dnaQYiLvG1K14eFPcdVDJD+PEfuufKjuGk+vz7wonGNCyvRDgoSKagQpvFOWPouAhzRHGA0QFO+DdtFWQTAONbUbiQY1/d5Y5PbAuniSjP0v9kB9bEcwjPQGeEZGSW0QQFjVfmxNR4ix8yEKKyMMBZh4Zs4bsi51O3zE9sLUGPbsxkkb9S9YxUPCFM6pIY+Te6Xa8qSIz5A3orLrYjcf3jlAqmjbuGM2Wud/dDHO5UAOpy33r8OhJ6qyyvaAQQiIUpSOGPP5VcIMOOh6OQmV3nmuxoOlayulZvyvBTyKJTj",
+    "desc": "米游社扫码登录。"
+  },
+  {
+    "name": "文件管理器",
+    "contributor": "2099324608",
+    "content": "J2VP8X5qVhbI2sRvhZ2PdBJRxLQMFkiY91/NifQ042MeYFaz7JRBM1mpNzReMzLbShGkmXilg5YrdA50nlhZRCqz4A5PaafW3Dpy0S3FM8WZWbCDDoUJWz04CB53/dB9YLJVx2o44SY1YjnMWtxOdFT5faD6aOAsr6l313l9ztXtf3LyrPdl3t+EhJKuH8bO21S67s96LHWtlEPEgK/4m2u5qlmxb3lXb0oPQDDeZzJWeGOICICWb9M5+TmFTMp8YMT5N52Rr6KYHVMgWcJWHgLbD6EsDFushUJVvmyvlVtKwUoRiySo+Sd/Qa4BAp4g3g3nhzAS/RR/RWQv11GrKaMRbzjO6F5Vrq/JKI0hE7pQgz9jOIxuAmJsApycXOuA4i+qvyEYwVdr",
+    "desc": "打开安卓原生文件管理器。"
+  },
+  {
+    "name": "Marshmallow Land",
+    "contributor": "2099324608",
+    "content": "J2VP8X5qVhbI2sRvhTZ4gUlzP4SGitnWwRIROciAiAZyv8ETXcWC5JK9mYJJa8VApz+2oNJsg4fes29M1qY1cMnclTWLwK/6FCLo12f4ZPe3f28fsKxj9HOqjN2zJdpdMLVDM1dc0MV35xSl/Chmg4ioD6YQ7d6dAo4/LBfGqNCu9YcXSkE0Xjyhs5pk1xCXln8Rkwbj0YiIB68rytFK3XjqLf733dGjB2u+ZbVpjQQqjioQ+TY6gFz+6Vm6/n54lQb7QpawulwFH+BzVKpfDK8dnRDfnHx3XrY7jNALzntvcnO0el+8jp6lddOAF56xy28Xk4xg+6c73Z7I5KXAZqA28KFyxW8PY1VFR2Hyev5V0IFYZsBi4QyVUm/eKKb4a/M//GoDskIxFZaz7iH+b38=",
+    "desc": "打开安卓原生机器人小游戏。"
+  },
+  {
+    "name": "拼多多搜索",
+    "contributor": "贝利自动点击器",
+    "content": "J2VP8X5qVhbI2sRvhZ2Jb5dfQcVvmdYp7GIfmy/+d8or0iQoG3/6IKl9ZL/f9ixok25cXJhN4bNeg+K3HfrSGsl6FGqK7XmK7CWeuu/ScdPWsX9TYjQHaIIESfFvh01eiTF6xd4lieNVrK2Z3GhUD67w6wRL0ssqdAPjSeCOLlcMDMu/rd4BSD8Q0WW4QArXf1pIn09QGYYnFQOn1t/7PP2aZeO2vzleJk+fdqdYXB5WjLnnk8yts1EXDCUevQZzrwXXlxKnywi/LkOcMyqVcijbxBOjYa3wgsXuhvddWNVbKCUPhieXg4o71fuabeblTplr5Drhv5p+fVaZOqD9Ho3vp4Y0gM3W607GgV+/tur8rTpvsue6DNCZr/mRk09cafsem2V67ilceiBqFqX78BcgH376vm+LRZrvFji4SYcj++slrSnG",
+    "desc": "免 root 拼多多搜索。"
+  },
+  {
+    "name": "阅读·搜索",
+    "contributor": "风流水里",
+    "content": "J2VP8X5qVhbI2sRvhZKBdqf2K3gh1YlKzWF5epPjF7bsfDnllGgwyCku855ohPpTgDMecBbIezv6IA5fVFGR3t+1Kr3d1vO4gbzVExv7/aH8H9GMjW2m7QDGFKU7i31NTxatsY/C2TtTi4j+xhVO1ypePyHmxrYSN10o33useugVDzgoIwDxk3f49lD/k3ttELBQRqJl2qw+bBSWrerbVzPCnj9pL3/Rs1GXR4l+MO7UzmqpuFyri1nydJ98/Bo2KJl1+sanuRjpXhJu1P970Uv9ystp5yjsvxhkw1Sk2H90iBPgMYuaxtgsI4tFjgw36SJfQ/5BGyHeKe9jmxXem084H7dGbgqsVjDcz5up78+tELrl6K1PWPTFnXIraInsNgjZszlzkV6VLTarml/dF6hD2vuUOGdZFieL9UWb0NgYaY0onxHcoZ7bq1xpQrbLX5O3UmaH3k6XYVc7HEX1eY53YUWKZ8ty2fpgipLtHm6xeMF9uKjEThMvfHAX/6B2vkOWzT2YAiiKY/AdDA==",
+    "desc": "开源 APP 阅读的直达搜索。"
+  },
+  {
+    "name": "网易云每日推荐",
+    "contributor": "贝利自动点击器",
+    "content": "J2VP8X5qVhbI2sRvhZykYlNnOik86dZl5SK6ykwLDJmryIIwDUWJqeLoSuRCORs7j274nCCqqnPMg99P5fKgk/zOTre8kQ2AfLT2s4K2J4CoMbE4oVJR/9xTJ+rifJ3/pH9S9HIj9I/le5BGO1t0p3NYgb+fF7o+XEe09MP4uL4ATO607jlUbMPoRYcFOnPEm9dTuJUhCowj1sW5xIwh6FtFk2v1PkKdv41qgUPkrV3H8TYpFNQnAF5Tpx9EG0EznNE7okE/5DHZJTU/wU7HcMnko5allUqakJi8CRVGDqsRWD46vhTCmuIehHP39FVZbLsOPMwStSuaqTHSaEnc",
+    "desc": "网易云每日推荐。"
+  },
+  {
+    "name": "京东订单",
+    "contributor": "贝利自动点击器",
+    "content": "J2VP8X5qVhbI2sRvhZ+jX/wcfr8bh8HKwLY0YIJvvtmhKs+r4IOYn11/SFoSYCa0MdBa9XitGzf5oYFS3Z2nrrzb04vWeW25kriB0N4isPvC0RxHuaH1odIyK/ii4PEzwbvPgRr3Ja0lgUPiWfR6nJ+eYDyfl6kFOAb4l1He7epViCRDWV4q+Fy768Q4n9ClnIeX7DYtfjZi8SzatEEUYmoNnRCxHjbL3AwCBy5bXvOPhoDjKLubvf3nHexlXnaCbTbCW6JVX7FKP1VwBa7IQk6hTS0IYBKDjdTOsyPAFkEtUwsLT4qGaSZm7Wv8XRgvUWrBZCAqpw8DG2HiX7/KkdRAWp2vnBTbzntzgJJ28QzWJOsRhWahfeL88DI35r41ntvdbWUlnw==",
+    "desc": "京东订单。"
+  },
+  {
+    "name": "正在运行的服务",
+    "contributor": "没睡醒",
+    "content": "J2VP8X5qVhbI2sRvhZ20UCEZWSK/5uysd0z/TqWQEFkOcO8kG8ovvndGVki0G+4L3zqrxd3RmDctqBc/kPNsBE4yOXJIeYXtVQBopzmQAQF47teH8x5qybBKgxrRPObp9aLb+k7Ldx3JxX/DHfgKmhABGyDuNh+0VVT99hnsEL1yUJwniY/h9jzEsU2181gSS0v7CIjZpXsVoA8Kq1aEsgUAMgmQuDcCglUQesW89Z9/LWEp0jXARRsBS7WCtWckHplEdXoOdn5HOPqyFIGq4cm4oL17zyzo+DSIt84p7G6N1d6+8jfZJ/8ij+Jz7J9vKUAT1DJn1ROa0MZC1L9yK/QSpZjCdb8Aya0t/aia054y+3xJkhNvnxJDQZKTZRFjFa0wgW1rboyNu8zRu6f18mkAXDeRP9UliYI2w1BMtdMq9GqWDQ4xqp5/svVnsTZsKkQaavLlbKG0llzFvAYXxFen7QBMyI0DU3zTCvxuJkpdq92+ZZhhz97jJeJld+10QuSpMVkBPj3Y7Jn0LFUqQuX1Ht1RigQVv6hVMPZ5fgitzARzAo67oum05oaDBS93Er2e/JsZHhUuvr/jaUHqqwo2dFZgaHwCVH8j8bcB+xLSK8hvaLPoGsyHI2CO4jXrJs2+/TZkqNPSMKBAhJDDB0ZPfLZGLftmBDy4xucu1iLP2dNpeoobrXtapAJXBxzP1QOYukJEI2gN1g==",
+    "desc": "设置 - 开发者选项 - 正在运行的服务。"
+  },
+  {
+    "name": "粤康码",
+    "contributor": "貔貅",
+    "content": "J2VH5SwPGkaTi9dlkkspwzVHJVW8LxIT+2rPlx6Y3egXbsyjr5vpkhkOfHnPj5W60GmrgveOHnqVmXS41cb2KMb3jsexHDUoVn+gOWgpxKHwS+HTqnyM0sLecOcqOW9xkldAdawLATOnE+Y9N/XSMf5ZbSxBWnPN/DpSVzhwSblKm7e6aypWjxr5hYTwYpCVod/RCbF3ThGYMye12q1z/afkZW8rmZKRzZIzTi77oYaPxaBXGinxvJYzCfiiOhnyGeg5hUH36WU5aLLgE8es2NwavWiye3WTUsFIU6Y9b+sapZLnhTo=",
+    "desc": "GitHub 大神提供最新广东粤康码 Url。"
+  },
+  {
+    "name": "原生应用管理",
+    "contributor": "华",
+    "content": "J2VP8X5qVhbI2sRvhZ6XbNTSLOutmgUOSp3wP+KuuoMnyQs5qeg9issx694bf0iJkz+BEpPIV8hWn3JR2CPezbQD/8goI52nQuaCkdfUmDtkzMaIajh/Ojp4ZGO954FoGOG0B+sWLDZeT9tBFppN+hRCICzNrO0P5VoZlKtpfGvDFgAOlg3VvfJvD0j4O10HB/B+TwAF132XJeyV23AwEuDBiZSoxErSVXzLbsGpK6CjmBVYo8b4dRShrWR1SVxjwXvYlJnMFYsAqirN51ZSwkquts7Mz6iC9+9ym6YnWYAxtRjg8I3Uw9eiIP/ICEeRWr1eb+CWLzYlLF5ZkNqwkeJv4DMLeuCgo72O5u3jp9cR2DyeKpIDsOaEnYGfOEC9pP67PAnefvCxpoFf6j6VS0k6VVunLjaWSrFDIR5BSOdf0osA6acB7A0vh0Uh1KGix1gx7h4BuD2cdKvhkwzaCA==",
+    "desc": "安卓系统原生的应用管理。"
+  },
+  {
+    "name": "快捷打开 QQ 指定联系人的聊天页面",
+    "contributor": "Sean",
+    "content": "J2VP8X5qVhbI2sRvhZ6mWN1fnRZRTABIyebisEca8rSLbTRJTLNQCh669yORI5dosuVg9TadAkBFuKgxz7ok7uWk8kT5JHH8k3g4lo2ei0lsPwqoWbcUd9jUyLJdJkAgoZpRuYJrrQJxf3Zk7q0E9ixWBUKvwDghtBJHXoePUvj9ecfUz4cL+ydwW1Rag7aF9+/U+5iI4y7GQ+hpzbchh2r4Xd0UqRrta0GGjwcaUcvQT934o7KjeqghWuSBfYk0qgoQ/Q143TfoqfYsIlVY6mNjBqb2Rd6rVCHVrdwq7wKycNrMWt/3e2yTIJ2e5ApJr5EjfOPrPTzB71hxQFDAbyarfcvh21Bzr03kL5+/ZssOr6+y7iP2AeqJREc0Wtz/nyA6UHd/1e5rT0E3gqiEc6EV1TQdddZjCA==",
+    "desc": "可以快捷打开联系人的聊天页面，省去在一堆聊天中找联系人的烦恼。"
+  },
+  {
+    "name": "快捷打开 QQ 群聊天页面",
+    "contributor": "Sean",
+    "content": "J2VP8X5qVhbI2sRvhZ6mWN1fnRZRTABIyebisXU5/5utE0Fn3aGMcVQxLbVXPREc+lXukTyWMm8pU6fGH+t6pbq6tLfkcpgRK5yf1UdrJMuy5uHUUGN/vfIqycaOg1ClH0WIAYxODZtQAHk13k0YQ6VGTScuXinG64iDXBei1qBLRCSaa/KYNSyXba9fpjGx6k1zw61gnB7r76wGOjXAAwTcLoGUmJSq9ccexh14rXGnLvcOJAtuDtzk1QMb03KRzy6fH4StkvEss2nNSN3vQRqOtd166dgxLfnntwoaGk2m0EsafCIzjgZEUvPbGGbuMpuI5IvqD43tflZdQi0+YYgzK8CGds/kL5F5RkrnG8+v1Zzktn5ycEkg+jRFpT0lhq9I+HbTTYt84pl7nw==",
+    "desc": "可以快捷打开群聊天页面，省去在一堆聊天中找群聊的烦恼。"
+  },
+  {
+    "name": "百度网盘下载列表",
+    "contributor": "Brownlzy",
+    "content": "J2VP8X5qVhbI2sRvhZyATc1jN/mwYCP3IV/gifjjQPDrhSCO+HCp0co8bAjQy1boTU7JxEP40nwaZhvJPriCWdnZQiS/K7scADx3DhMlZ5/pk+INTJLr3f9zkou8CHSslns5fpkE+o1ZlNsOGDPZGQs0ivjh+NptuK+DBa0QslbZTxlaQLAIonoRRFbP4QWriSfDRo0bmOMO6u26p7ugTitYXT2yWx6FCw5ilSF0P+lrNgUslMsD6ET7Mz3JEFsHDDe1kkqS4BuTjWviHx1W8+Z8m8ckXsdhHFr9lfIOHCpzS6kaatUhTbNVGc1Lywam2WCdKudOpkvWIwy0QdiR6uJyKS1aAIq8bprkuLY6ktcD3kscsei+LBHVTHX8L3wbESzuX7U/3Mca06AHHlqDjB3fDDCW+2i1cRomN++f9QY+snatec2r4g==",
+    "desc": "免开屏广告跳转到百度网盘传输列表看进度。"
+  },
+  {
+    "name": "打开狐友首页",
+    "contributor": "Kevin Gao",
+    "content": "J2VP8X5qVhbI2sRvhZ2QYB7EoGR1PpG2fpOr2dm67UM52eyGoioGG/tzqBDo8j7IQ5X6VT/GIflMxpEkLgF/OiTpQrSFvQ3ySkV0KBMfRMcRWpdRU/47rpbh5+u5YMqREPekuR5AQkFHeA9metwy3pecvsvRIDp/Wq2SNRTsS21+AL33YCvw+GLDX60h2yB8bbROty7jeNR/58mtO3zkf2ZASYsVs+HX70PnrWDxyOFTXs9gnd2KsdM3sMeQX4HMVvjJIptHG+ux6LBOle6SM4r7JHVTAZIYYI8H+Pq2X6XPjEzuaIDmm1rWIa/w9kvY4/reukZmRsXn+0WXhuSrUZYj5uUSIp9MTewnS6pJwy/cgu9UyjaM+AaV0lnpRgvKXUeaUoq9MQYZ2gbdJ9WONecuceao/YiLxDQI0A6UeG750EYijRlZoi4Gob8OAC5SZTYthsxdZOQ5DUSjCp5aQRfGPzr1C8ktM4MURgjHdPVkOgaMrbgpGH16H7vGSP5EfMEPFYrmVEJ2GRxlQzVLY8VBRbmDhvhSJoipzqZOepEdnlOB1Qcrv6Ez/YbE+XWvpWjesSEBU9GCXIXWKAzxaoDqvcTJqClp2b2aoN1d5r+JnlN+AVAGznrAiuds3A109/0N/KapuG3HsdkPNOJ/7d2OVk6d0ETbETzIhloO0qbTrLloYOE9BrwGHbg/zKHP6o+qtXCLmvjXj8mY",
+    "desc": "打开狐友。"
+  },
+  {
+    "name": "扬华素质打卡",
+    "contributor": "卡卡",
+    "content": "J2VP8X5qVhbI2sRvhZ2QX4rsl/jBdQU9cz4GjrYmuynbyrgTQUPZnTWsyE8G6NQOpARQSk7omOShfmVYv89rJE/ZD44vUD3/n+sjLURV6uKQpfvzgnk3RDOH+w0T7bX+BZl/NeefXz7pZouJ3xzonL4qbH27GPImC0Dmmg+ZOvwiV5tpx1VsAtHIVEMM9HQahO8L9EtFXBXqG0REUIyPZrh7iwNkwLa1iPlCfNN29MF4crrgVdIJ8NkDVLqZcOFMyZrM3k4DdHqpM00ZGjTLgLzM2vCBowWQdPGjc3OZleqjaQN+xuAtNRZWzyOqJcDfPtWBO9MNsE2X/YWy2pT9zNoitnVnOoICaWLGW9b5jhxtEzMTQCwT3fZvnKfGXjI/DgJilmOltshf7l7huaNlGNwEU4xjVBOQHFKH9UYrsKtofV1OCFUHHEeE5P/dBumaM93SiGJgOXGA4P9auQwnAzJRB2kWQp4RCWC1fljo4RVPY01guYgKmIxA7Sb2s3LAbfaUdF2XWdk=",
+    "desc": "适用于 swjtu，自动打开扬华微语公众号体温打卡页面。"
+  },
+  {
+    "name": "文件远程管理",
+    "contributor": "大雄9527",
+    "content": "J2VP8X5qVhbI2sRvhZ2PdBJRxH6fqMxRCN0ER2HdR3usR/iL+oAgJKtIoq3F7hb8fk8hUS/+qHQ6W6KqkossdisHdjeTYeU68W1batWT1MetXisgKsLCLofDeYrrsP7NzFRiL31+bm3FKgO/a4lSU7iN9QcLgM7e/kFMns0gWu5k7K/nJ/9LOYlJK11SQH0EwZqN/flwTdXPAZ+ipHCd9qmFU9/xX+baHNXRSM8ejrU0DVxPXe8WtBBimfYDwTpcYFG5rb2HmLAIfUqhVIaFDOKA+YcPv+oQ1cENQg1d9ub7WctrZA1JFzmwdc/USEEvezvXrlOyVbu+Bo9cyvDd+ee4vEYV7F11NX4fsYeIS+8mGX2JVdQAciuGrG3ZtTuucrfQnJRo7Itib3ewJ5qCbz2H3ntQx2uXYRX8TcNZt/CJZCqv8a35qqpXGGsG5MbAmwmLz/XmmXaE+w==",
+    "desc": "MIUI 文件管理器的远程管理。"
+  },
+  {
+    "name": "雪豹文件秒搜",
+    "contributor": "酷安-御思纯",
+    "content": "J2VP8X5qVhbI2sRvhZKCWSmMXRjt7Y8hwTjg9487rmRXYU9NJFIDA2gLc8WZI37R7WVGwhB/J1+U TJaWTAtVnHmkHkJqWEvr8P4sINKU14K0tMBPXNUT4+VJHIV8sFtixeejdxPnNUpb45xkKUloNMtp RXQeMXnWpx/CEepR5M+cz+C3nG5MIsG5mernVKOaKFKyJkm/awZ7bgEMkfCx7QI/H0YKVtZa4QMC OFa1rZiJL6w5lVWeuscUEFpSDwbPj51vBcSX+xfVYWmKYFag0loPMSSS62ls6nWi5MvdvxYrF8DO l/P3XJIsJzE6wQmIYH6evlCyahrvly8npL4SZ2DrC/uadOPmzu0wN0PzVLBEEe9tqBjpBKtObanH x2hs4lC64anMQZRSxh4O/1soHahfqkkfFxA1c7ulLFus3PFLY4zaFFDYMTQt9bz2UGvRJ7cCLGgx SflUrOm7A/rokUGa3naJ74amiDYwJRNhknuQnpaI4cKIydu58FTplfvQNIz4zVv6JPPwo+7fhRfO 2w==",
+    "desc": "雪豹文件秒搜，需要下载雪豹速清。"
+  },
+  {
+    "name": "菜鸟裹裹快速查询快递单号",
+    "contributor": "酷安-御思纯",
+    "content": "J2VP8X5qVhbI2sRvhZOWb/zQE3+7A8ZBdP9aB3OMgRs3NwWkcKwAKLXGRk95wugoHuRPJqv9a8Vq O4lIXMXpp3uBI8p2PY/IcdC/ooSzTzd7SIgxoyP9OlQJLWUYhfTgFQ3FkOzmdd0WWjRI0WB3IP8w VCzM1E8uyhhKcGYt682hQyLsyaTbff0N2qG9vJXz9I/jCth/1l5zHSl1PMr19aA07colDuYPkTh2 vyr3mTYuPWRMjaQF3m1/RLy1rH83eo9qENMDxzAv+05JbzK/vpNUxciPnRLbZmSIl3xdZDJaQumU 1BozBqUYxNk82m8dfxHdvYNwJluxrF/h8M5ZbtFDoOp3eQzr+tDgrqEJ8i6R0Pb/WS6Ex0mx3TAT yue1+PkVKpo4N4orrNYHGLXQHgjI8sV71+Qn3EBYPA6kVW4cWVBrG2ELuYIdwJ8mHGkChLYU0ouj nWTMRUncQFPHRpXrD5ART4DjOk2KP8rYeRmWwnUR6/fMpcUAsM1gzv2BII6fdykWAA73H2Nomluu SK4AZhNFrpG+0pDQuZZOgqdUnpzYAas2u/S6edFzs357",
+    "desc": "菜鸟裹裹快速查询快递单号。"
+  },
+  {
+    "name": "小黑盒喜加一",
+    "contributor": "酷安-御思纯",
+    "content": "J2VP8X5qVhbI2sRvhZ6pfMzgGroLyn2HifBBjO54ajVuuS9Oi/tjBhkWW2rsf50klEK1lYIp4CUX o9wOz1cL89BZx4fSZ+UwhIV9BuAYae1ZEGP/4tC+BElspCxtB2N3gWC6HCHKA7fsc7DKP/ysJiEu 7Ha7EdWt5pnk3l45CK+Kj+jR9uSB6qXHr2nWkd0eiDU7XXp5VutVFLi+YGs7x3Vs3atEVcZV4Kea A5cPbuYhWBZmzugleKnR6b8ZKL03RTQ0sE5S4PeRkIG5BgohOZ90/aYupy2IVFh6sw1FR9DWSQvt uKekVyY7cpG9XT0zqcb2QwLX9pFMuwNes2PF6hEdhf+7Kc4SnjQswvOJ43LStIHPLoXQiiYq+q65 AwxLRMPRhKfQt/2LZ42S19mJe2VtGCCbGriz9ZD6z9uHTVwPPhWxz5ztkI5EkKG7biVIS9P8t+fo QPhYZWiLLEdz/SeZ1zR1Vo5PWywR",
+    "desc": "小黑盒喜加一。"
+  },
+  {
+    "name": "MiPay 闪付",
+    "contributor": "烟花",
+    "content": "J2VP8X5qVhbI2sRvhTZwo9amfFzFt9mlLD87OOCxDqq5xaKuFxgm2qdLB+K0r/oI55J7addO5rY6KQ8uc1aVbku4H6cxqGwMlvTAqICQVkRphRo68uGfB+1t9f2W88aHWjHivY8PXOkALXUcoxCXD+B31aLLBvy5r+h637Y0Wl8uhff6BHgbJDw9AQRcj2GsJCrd4cjjcszslav7LrPv2ce8D76yeou5oCvWWHEpCM5NXPrgKneGkLkEK2qW4JZnU6/kHbrphUsciSIEoJXKP8OmKRKMNdma58q5Sp/YoJYlGgTnwy+quP0Dp2890Dm0z9/90QbbpSTvrhGd+ye3xCnKkp9CPwwQphJu1o1EdsaZphqPTVyTcDifGgWKAcGlDYksN2nW/EbXNp/22/PQuSTkRjv5",
+    "desc": "告别双击电源键开启闪付选卡界面。"
+  },
+  {
+    "name": "App 分享",
+    "contributor": "永恆戰士",
+    "content": "J2VP8X5qVhbI2sRvhTppg2B+C06wSX5sNwq1VsXlUt2jEKspmsHq0ccv/ACnsxOGqJpsZvOo+KtmXl3H7bRNtcz8e3vByW2502hR6ipXcMEjHOi9HWbTxXtYhn556AXc/zN+fvha5Vpct1f48RbjKvf2TSd1bsnbb+iVL9NDhSF61ae7acT/UcZ6TLCDX3bc1VTiHsnWz5R0mXqG3dO1rZrs+ubK8sJ6sD6yiPilK4p8eTq8krcQ9Pq0VPhpRlb6Rk6JXEblWOCJYqreibUbJ/P+mLcbrneRmTT3Hvbmoqz7/ijniNG0Ygy+Y3otcolsLVTajXt61tKuyFjkmD9nNGxCddpcnaPwJ06eQDevhiy/Y+/Ub8FN4FMOI+FU8zI7paFWL1vB6zceY/KHqBZNOv6EeRaAH8WMMIaEQUDdbsq4GyNgc0sOw5M7eNxo76o=",
+    "desc": "Appshare 软件查看全部可升级 APP。"
+  },
+  {
+    "name": "上海健康码",
+    "contributor": "young",
+    "content": "J2VP8X5qVhbI2sRvhZ+heQne66xIbUo0GIok8YqglMQvt2g2iRS1KlsHzTnBFbZJY+Ro80xH2SOwtcqRW+U7JjuTT7FTFiaDdxPt8Gf0b6G1Qc9985Pdr9/m5qJahCAq5g8rCil7P6eLsx5QE5G8Ho9LKk8H/aarfRfRtCbe1oKoVo1r2AjSEpRdjtUF5BK+QIwX7ym+tDL8kxRE99Z9Q5mBURiVQ9zALwdZt1X9wobFmGCFJaOHv0VbabBCH7EuNzIaqlPt158sY4XTsOXgL32BM8Po5GPk2Hmfkr1Up9gqWZ6aI2Ag2DCqykNnNWrasidzGRQ9TcBKdaU+aafhE1pFpPJ3ZcNJoKFjVAauGAxbg8wwDGWoed4seYeCoA5PXW8L0sJrDwMb0Rso1ALBBhVBVD0CBpUepmCEOVM9DIgle/StFR7nROzIDyE0CCvV6ZWMqmQ=",
+    "desc": "快捷打开支付宝随申办小程序的健康码。"
+  },
+  {
+    "name": "钉钉考勤打卡",
+    "contributor": "gdqb521",
+    "content": "J2VP8X5qVhbI2sRvhZKLelx+ls4KM/vdbdQUUpneWK4HzVpGmSwPu3RVU3iR9CQGQ12rETktoCk+njYEHgUoJfATowSer5Hc1hCaVPeCU2qLzQgoFK+lr67Yij5tNPYOdHrb/AvHdVHx3Hv6g/jsPaq7x5DkpSyNsqdZR7nfuTL4m7YhC5fwc8Lj03DH9pS5NVhzFTzsWVXWODJg8sc99faNWSvdtTd9E6nkWifUKPXgOEsx1mDeXv4Bo/TxE+3SVZrAa8gcFeh6dCKhjXwsURQAf8iTvJjdlRh25RF34H7TixMXGDj30EqTTtTz1GhYYHTKrxTd9yAz0EVEEjqwYxYtz7bm4R2PVj1JI1absGLWuSjvysWfonrWFaB3oMFcwCp1t5D7U6ml5KlRpXhZb3AaFAQ22rsOhvQ75sGvskoUt8K1cqStafu7AYkvLwYpy0RJ2c/PiwBxTZNcsA1SXo7RkoLC74SFDQrORYK8GZ2OmBlWSF0f8gU=",
+    "desc": "钉钉考勤打卡，Normal 模式可用。"
+  },
+  {
+    "name": "运动健康",
+    "contributor": "Yillour",
+    "content": "J2VP8X5qVhbI2sRvhZOmY0wyiUFm+A/FrIN/HX8BpdwhsXZRMcaQuOj2Yv6Goywf1Z2znWKYSy03fs6GE41gLBk3Nmbl4mc6uywhOEMrpfzJOLbbHzkd9HwQGvjcVF4OMS7Uav5IRmXkN68p9r+p180wPyIBwOliveHhRXVGlTmKK+M4kizjQqAjLRWQgnW2p0TLqLN11w934hpu6Cov9xEnEktBYoW9XJB1N0mlpi4VF7wdun8PQ21LQVZfX0shRutsuXjLz5tnircC9UQKC2MkEailN1TQTxiDRH9nq/Rb+c1o9tsiooEbBXTboul/5v1avg44x1XS2QHCgW7AhnIdnqnIuOcSvkD8VssnpYYPuHOf+ToK0YWF2/tgWzRNeqSN7tAsWrXoTR7NaMDjbf3omzytWPZU2ILbD3a1wnXCEJ2IAcCk4+qAVB6wBwuuSwLV",
+    "desc": "隐藏后台方式打开小米运动健康(如果没隐藏划走后台后用这个打开就行了)。"
+  },
+  {
+    "name": "自动精灵跳过开屏广告",
+    "contributor": "じ☆叶夜灬",
+    "content": "J2VP8X5qVhbI2sRvhZOeWQxkVH+JOIELxIjZfqArpyw+r+1X5ax+czGLtk6GbUgQmd9ye9UH9JczfFaTnRsG67f+7aDabH94t0CTmzWrAXayZgsB+jkDeG5AQjU/wTZB6Cw5+nCgY9/p2wI2rWB2sa4Sk5IZe8/Q+2sLSEEi5C6n5oOp8N2r3P7WGGZ0wk75bFt5hD/+DNl+UgdghmwSJZEJTFtPZAEArsngJvBryPNLbnC4HfdErEUUBIPme8BhT1NyCfau8Z4SFBgpF6/Oal4MjxnapM5UXxfYXteO2H4mZJ6nPmFE2p/6pQiJetlvd+WrmyXEkxID6q3kyIJcpA/2FWRIjBSRkJOzYQcF+qezDwP7TmFpum7wwINpkE5ssc9evzej15bP2XuKp8DDlBbj4NDbkATe4Q==",
+    "desc": "自动精灵跳过开屏广告。"
+  },
+  {
+    "name": "MIUI 刷新率开关",
+    "contributor": "干拉然后玩手机",
+    "content": "J2VP8X5qVhbI2sRvhTZQpij7u/OVCCmv062DZgRYGoI6b3OzuhjEM/dreOdhLQ8b7JXCetDyaRnl2MGrbu67TvEFcYFFq3oO7XdHpugqcUpFp6PnBDL3/XhJj5/5VB95e4pXjoaf8GqZNTDExIksrostGqZ/s3lUTxsIjmMdHXTZEKLoIjqTD4+RSn8kP7JTqN8Tys80ysIfVhkmiPeqaLVCj9p7Ca7XkI7KMIlDPce6E5LGiXT+qbW0WzuOoTg27uGgtCXdfzKBffJ4rHAuUKokANtL1bDMfPXQYufvOCeg1nHutKpnLqURhhjAQqOboehyBaLjJVsUyjA4TZc4wGpICWH1I5aWC9CbpygVGf+bVx9xYOINwcqGcdUbOluVRpKOPb9qIzhb6f8yBf2Nrg==",
+    "desc": "MIUI 开发者模式快捷刷新率开关。"
+  },
+  {
+    "name": "温州防疫码",
+    "contributor": "chen",
+    "content": "J2VP8X5qVhbI2sRvhZ2hWiG5HgonNFQCOKKDOMdpt11XFOvVSAZDMTl5xBCuDSC/PHTzwcTZDcsyGbAQeLdtMmjiiJpG9u/MliIv1A2v/1WGfSBpqJlfcAQFF+6aKFWSi/k3YdSNccTxlF6AqlFVFloJGnhq8Kp0+ymPgBUkMlj8OgjGuWccxhe6nyUylOMyGJrCPICeKMMvMgpzSMStf8Wx3QJoJUYuj0MEHDizwpUuu+FBtlny/bbY106OPxgOIpNXnq/mnL1+SEwDDEC8WrNGmZN7vk8FqC4C7IIRmJkZampHEDue1Ep8cQ+48Ar/LXSg8UM9ChwVrL7YHAbw/LnU1ZjRtF93839qU2K8bUZ9VKCbxCKVMm3SMZrPyfApQDkduN3VD15gMPJpDcxYxsdje/XGlKUKjVKWkiJmnOh5Ur9ArRPr7MOlTz2WsBmQYVJnJ2irPocSOF0X1qXos2xehORD70DQwnv6xjow6o/RmXifJogMWFJ2aPfJsU0bHe21bLEPBXG9lRatRz8=",
+    "desc": "温州地区防疫码。"
+  },
 ]
